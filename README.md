@@ -189,3 +189,10 @@ Si prefieres charlar, normalmente estamos en Telegram en el grupo **[Vaultwarden
 Una pregunta, sugerencias o nuevas funciones o para obtener ayuda[ \[Discusiones de GitHub\]](https://github.com/GuruYosh/vwbackup/discussions).
 
 Si detectas algún error o fallo en VWBackup, [abre una incidencia](https://github.com/GuruYosh/vwbackup/issues) (Issues).
+
+## Contributors
+<a href="https://github.com/GuruYosh/vwbackup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GuruYosh/vwbackup" />
+</a>
+
+[contrib.rocks](https://contrib.rocks).
